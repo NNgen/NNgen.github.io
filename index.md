@@ -15,7 +15,7 @@ Apache License 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
 GitHub Repository
 ========================================
 
-https://github.com/NNgen/nngen
+[https://github.com/NNgen/nngen](https://github.com/NNgen/nngen)
 
 
 What's NNgen?
