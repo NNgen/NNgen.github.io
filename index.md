@@ -3,7 +3,6 @@ NNgen
 
 A Fully-Customizable Hardware Synthesis Compiler for Deep Neural Network
 
-
 Copyright 2017, Shinya Takamaeda-Yamazaki and Contributors
 
 
@@ -11,6 +10,12 @@ License
 ==============================
 
 Apache License 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
+
+
+GitHub Repository
+========================================
+
+https://github.com/NNgen/nngen
 
 
 What's NNgen?
@@ -23,3 +28,7 @@ Generated hardware is all-inclusive, which includes processing engine, on-chip m
 The backend of NNgen employes Veriloggen, an open-sourced mixed-paradigm high-level synthesis compiler in Python. So you can customize NNgen for new DNN algorithms and applications.
 
 
+Tutorial
+========================================
+
+- [NNgen tutorial on Ultra96 v2 and PYNQ](./tutorial-ultra96v2-pynq)
